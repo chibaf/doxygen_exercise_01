@@ -4,6 +4,12 @@ this example of doxygen (under construction)
 
 ## how to use
 
+### generate Doxyfile
+
+doxygen -g
+
+### edit Doxyfile
+
 ### run doxygen
 
 doxygen Doxyfile
